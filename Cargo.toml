@@ -1,0 +1,8 @@
+[package]
+name = "amerikkka"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+statrs = "0.16"
+ndarray = "0.15.6"
